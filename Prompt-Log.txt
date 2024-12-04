@@ -1,0 +1,39 @@
+# Prompt Log for Chatbot using DialoGPT
+
+## Text Cleaning Demonstration
+
+### Example 1:
+**You:** "Hello! How are you doing today?"
+**Chatbot:** "hello how are you doing today"
+
+### Example 2:
+**You:** "I’m doing great, thank you!! :)"
+**Chatbot:** "im doing great thank you"
+
+### Example 3:
+**You:** "WHAT'S THE WEATHER LIKE TODAY? ☀️"
+**Chatbot:** "whats the weather like today"
+
+### Example 4:
+**You:** "Do you like programming, Chatbot? 🤖💻"
+**Chatbot:** "do you like programming chatbot"
+
+---
+
+## Chatbot Interaction Log
+
+### Example 1:
+**You:** "Hey, chatbot!"
+**Chatbot:** "Hello! How can I assist you today?"
+
+### Example 2:
+**You:** "Can you tell me a joke?"
+**Chatbot:** "Why don't skeletons fight each other? They don't have the guts!"
+
+### Example 3:
+**You:** "What is the capital of France?"
+**Chatbot:** "The capital of France is Paris!"
+
+### Example 4:
+**You:** "exit"
+**Chatbot:** "Goodbye! See you soon."
